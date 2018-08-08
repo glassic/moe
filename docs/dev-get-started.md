@@ -28,4 +28,3 @@
     - `git push origin update-docs`
 - Make a pull request to the upstream `moe-1/moe`
     - Navigate to your github fork
-    - 
